@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+tut theking #!/0x0a4069400F5605b6F0f08f5726042F7C3B83852f
 
 set -euo pipefail
 
