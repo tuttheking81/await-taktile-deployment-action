@@ -1,4 +1,4 @@
-tut theking Await Taktile Deployment Action
+tuttheking Await Taktile Deployment Action
 
 This action will wait until the commit hash that kicked it off has been turned into a running Taktile deployment. Use this action to block the next step in your GitHub Action job until that new deployment is live.
 
